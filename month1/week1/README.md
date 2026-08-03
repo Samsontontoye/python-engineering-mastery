@@ -1,2 +1,23 @@
 # python-engineering-mastery
-This repository contains all the labs, notes, assignment, projects that i assign to myself as i start the journey of learning python all over again from scratch in order to gain mastery and become a very strong and world class python programmer. The goal is to go from beginner to a top programmer and also become competent enough in the field of Machine Learning Engineering, Data Science and Artificial Intelligence Engineering and also to get offers from top tech companies in the world like Netflix, Open AI, Anthropic, Google, Amazon, Meta, Microsoft, Apple etc
+# Week 1
+## Theme
+
+Thinking Like a Programmer
+
+## Objectives
+
+- Understand algorithms
+- Understand variables
+- Understand memory
+- Write simple Python programs
+
+## Deliverables
+
+- Labs
+- Homework
+- NeetCode
+- Mini Project
+- Assessment
+
+## Status
+Completed or Not Completed
